@@ -13,6 +13,7 @@
 * `pwd` - to see your current location
 * `Rm` - to remove file
 * `open` - to open a file
+* `cd -` - to show entire path directory
 
 # Simple Git commands learned
 * `git config --global user.name` - user name configuration
@@ -21,7 +22,7 @@
 * `git status`- showcase the current state of the working directory
 * `git commit`- captures a snapshot of the changes made in the project
 * `git log`- shows the commit logs
-* `git push`- uploads the content of the local repository to a remote 
+* `git push`- uploads the content of the local repository to a remote
 
 # .gitignore
 
