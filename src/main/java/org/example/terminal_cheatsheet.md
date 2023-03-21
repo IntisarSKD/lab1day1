@@ -14,11 +14,15 @@
 * `Rm` - to remove file
 * `open` - to open a file
 
-# Simple Git commands
+# Simple Git commands learned
 * `git config --global user.name` - user name configuration
 * `git config --global user.email` - user email configuration
 * `git init` - creating a new depository on your local machine
 * `git status`- showcase the current state of the working directory
 * `git commit`- captures a snapshot of the changes made in the project
 * `git log`- shows the commit logs
-* `git push`- uploads the content of the local repository to a remote repository
+* `git push`- uploads the content of the local repository to a remote 
+
+# .gitignore
+
+`.gitignore` is a special file in a Git repository that tells Git which files and directories to ignore when committing changes. This is useful because there are often files or directories in a project that do not need to be tracked by Git, such as logs, and temporary files. By ignoring these files, you can keep your repository clean and avoid cluttering it with unnecessary files.
